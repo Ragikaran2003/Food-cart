@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "amt": 180,
+    "shop": "Biryani Center",
+    "ftype": "Biryani",
+    "pic": "https://www.app.tutorjoes.in/img/food/12.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 2,
+    "name": "Veg Pizza Loaded Cheese Supreme Edition",
+    "amt": 320,
+    "shop": "Pizza Shop",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/21.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 3,
+    "name": "Masala Dosa",
+    "amt": 90,
+    "shop": "South Kitchen",
+    "ftype": "Breakfast",
+    "pic": "https://www.app.tutorjoes.in/img/food/33.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Shawarma Roll",
+    "amt": 120,
+    "shop": "Arabian Hut",
+    "ftype": "Shawarma",
+    "pic": "https://www.app.tutorjoes.in/img/food/47.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 5,
+    "name": "Paneer Butter Masala",
+    "amt": 150,
+    "shop": "North Delights",
+    "ftype": "Curry",
+    "pic": "https://www.app.tutorjoes.in/img/food/52.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 6,
+    "name": "French Fries",
+    "amt": 70,
+    "shop": "Snack Point",
+    "ftype": "Snack",
+    "pic": "https://www.app.tutorjoes.in/img/food/64.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 7,
+    "name": "Mushroom Pepper Fry",
+    "amt": 140,
+    "shop": "Starter Street",
+    "ftype": "Starter",
+    "pic": "https://www.app.tutorjoes.in/img/food/77.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 8,
+    "name": "Chocolate Milkshake",
+    "amt": 110,
+    "shop": "Shake House",
+    "ftype": "Beverage",
+    "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 9,
+    "name": "Egg Kothu Parotta",
+    "amt": 120,
+    "shop": "Tamil Kitchen",
+    "ftype": "Parotta",
+    "pic": "https://www.app.tutorjoes.in/img/food/92.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 10,
+    "name": "Schezwan Fried Rice",
+    "amt": 140,
+    "shop": "Chinese Wok",
+    "ftype": "Rice",
+    "pic": "https://www.app.tutorjoes.in/img/food/39.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 11,
+    "name": "Chicken Popcorn",
+    "amt": 150,
+    "shop": "Crispy Hub",
+    "ftype": "Chicken",
+    "pic": "https://www.app.tutorjoes.in/img/food/44.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 12,
+    "name": "Idli Sambar",
+    "amt": 50,
+    "shop": "South Corner",
+    "ftype": "Breakfast",
+    "pic": "https://www.app.tutorjoes.in/img/food/28.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 13,
+    "name": "Veg Manchurian",
+    "amt": 130,
+    "shop": "Dragon Wok",
+    "ftype": "Starter",
+    "pic": "https://www.app.tutorjoes.in/img/food/45.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 14,
+    "name": "Fish Fry",
+    "amt": 180,
+    "shop": "Seafood Spot",
+    "ftype": "Seafood",
+    "pic": "https://www.app.tutorjoes.in/img/food/19.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 15,
+    "name": "Butter Naan",
+    "amt": 40,
+    "shop": "North Delights",
+    "ftype": "Bread",
+    "pic": "https://www.app.tutorjoes.in/img/food/71.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 16,
+    "name": "Aappam with Stew",
+    "amt": 130,
+    "shop": "Kerala Kitchen",
+    "ftype": "Breakfast",
+    "pic": "https://www.app.tutorjoes.in/img/food/54.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 17,
+    "name": "Grill Chicken Full Family Special Feast Pack",
+    "amt": 699,
+    "shop": "Grill Master",
+    "ftype": "Chicken",
+    "pic": "https://www.app.tutorjoes.in/img/food/85.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 18,
+    "name": "Pav Bhaji",
+    "amt": 110,
+    "shop": "Mumbai Hut",
+    "ftype": "Snack",
+    "pic": "https://www.app.tutorjoes.in/img/food/17.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 19,
+    "name": "Fruit Salad",
+    "amt": 90,
+    "shop": "Healthy Foods",
+    "ftype": "Salad",
+    "pic": "https://www.app.tutorjoes.in/img/food/31.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 20,
+    "name": "Chicken Noodles",
+    "amt": 130,
+    "shop": "Chinese Hut",
+    "ftype": "Noodles",
+    "pic": "https://www.app.tutorjoes.in/img/food/49.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 21,
+    "name": "Ice Cream Sundae",
+    "amt": 160,
+    "shop": "Sweet House",
+    "ftype": "Dessert",
+    "pic": "https://www.app.tutorjoes.in/img/food/63.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 22,
+    "name": "Paneer Tikka",
+    "amt": 180,
+    "shop": "Grill Master",
+    "ftype": "Starter",
+    "pic": "https://www.app.tutorjoes.in/img/food/73.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 23,
+    "name": "Poori Masala",
+    "amt": 60,
+    "shop": "South Corner",
+    "ftype": "Breakfast",
+    "pic": "https://www.app.tutorjoes.in/img/food/83.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 24,
+    "name": "Tandoori Chicken",
+    "amt": 260,
+    "shop": "BBQ Villa",
+    "ftype": "Chicken",
+    "pic": "https://www.app.tutorjoes.in/img/food/97.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 25,
+    "name": "Sweet Lassi",
+    "amt": 60,
+    "shop": "Punjab Drinks",
+    "ftype": "Beverage",
+    "pic": "https://www.app.tutorjoes.in/img/food/16.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 26,
+    "name": "Veg Thali Full Meals",
+    "amt": 180,
+    "shop": "Home Foods",
+    "ftype": "Meals",
+    "pic": "https://www.app.tutorjoes.in/img/food/35.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 27,
+    "name": "Chicken Lollipop",
+    "amt": 160,
+    "shop": "Starter Street",
+    "ftype": "Starter",
+    "pic": "https://www.app.tutorjoes.in/img/food/59.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 28,
+    "name": "Veg Burger",
+    "amt": 90,
+    "shop": "Burger House",
+    "ftype": "Burger",
+    "pic": "https://www.app.tutorjoes.in/img/food/26.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 29,
+    "name": "Parotta",
+    "amt": 20,
+    "shop": "Tamil Kitchen",
+    "ftype": "Parotta",
+    "pic": "https://www.app.tutorjoes.in/img/food/11.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 30,
+    "name": "Chicken Momos",
+    "amt": 120,
+    "shop": "Momo Point",
+    "ftype": "Momos",
+    "pic": "https://www.app.tutorjoes.in/img/food/58.jpg",
+    "latest": "no"
+  }
+]
